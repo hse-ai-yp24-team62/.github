@@ -22,6 +22,12 @@
 
 https://github.com/hse-ai-yp24-team62/
 
+## Команда:
+- Михаил Сахаров https://t.me/mcccc
+- Антон Мурадов https://t.me/MrArizona42
+- Виталий Савчук https://t.meVitalBoss28
+
+
 ## Репозитории:
 - ds-ml исследования: https://github.com/hse-ai-yp24-team62/essays-score
 - app (fastapi): https://github.com/hse-ai-yp24-team62/essays-score-api
